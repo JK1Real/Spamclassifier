@@ -15,7 +15,10 @@ This repository contains code for a spam classifier implemented using Python and
 
 ## Installation
 
-1. Clone this repository: git clone https://github.com/JK1Real/Spamclassifier.git
+1. Clone this repository:
+```bash
+   git clone https://github.com/JK1Real/Spamclassifier.git
+```
 
 ## Usage
 
